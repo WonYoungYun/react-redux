@@ -1,6 +1,8 @@
 React X Redux
 =
 
+[여기](https://velog.io/@velopert/Redux-3-%EB%A6%AC%EB%8D%95%EC%8A%A4%EB%A5%BC-%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%99%80-%ED%95%A8%EA%BB%98-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-nvjltahf5e#%EC%B4%88%EA%B8%B0-%EC%83%81%ED%83%9C-%EB%B0%8F-%EB%A6%AC%EB%93%80%EC%84%9C-%EC%A0%95%EC%9D%98)를 참고하였습니다.
+
 React에서 Redux를 배워보자
 
 

@@ -1,16 +1,16 @@
 import React, { Component } from 'react';
 import './App.css'
-import Counter from './components/Counter';
-import WaitingList from './components/WaitingList';
+import WaitingListContainer from './containers/WaitingListContainer';
 import PaletteContainer from './containers/PaletteContainer';
+import CounterContainer from './containers/CounterContainer';
 
 class App extends Component {
   render() {
     return (
       <div className="App">
         <PaletteContainer />
-        <Counter value={0} color="red" />
-        <WaitingList />
+        <CounterContainer />
+        <WaitingListContainer />
       </div>
     );
   }

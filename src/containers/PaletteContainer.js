@@ -7,12 +7,13 @@ class PaletteContainer extends Component {
     //onSelect를 위한 함수 전달
     handleSelect = color => {
         const { changeColor } = this.props;
-        console.log('what')
+
         changeColor(color);
     };
 
     render() {
         const { color } = this.props;
+        console.log(color)
         return <Palette onSelect={this.handleSelect} selected={color} />
     }
 }
